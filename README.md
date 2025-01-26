@@ -1,8 +1,8 @@
 # 🚲 Bikcraft
-Projeto desenvolvido no curso de HTML e CSS da Origaamid.
+Projeto desenvolvido no curso de HTML e CSS da Origamid.
 
 # ℹ️ Sobre
-O projeto consiste num E-commerce de Bicicletas 
+O projeto consiste num E-commerce de Bicicletas.
 
 # ✨ Demonstração
 Veja uma demonstração de como ficou
